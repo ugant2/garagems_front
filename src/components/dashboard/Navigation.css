@@ -1,0 +1,41 @@
+.fixed-navbar{
+    position: relative;
+}
+
+nav.fixed-part{
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: 99;
+    margin: 0 auto;
+    padding-left: 55px;
+}
+li.nav-item {
+    padding-right: 15px;
+    font-size: 15px;
+}
+nav.fixed-part.nav-color-bg.navbar {
+    background: #0678f9;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+a.nav-link {
+    color: white;
+}
+a.navbar-brand {
+    background: #1157a7f7;
+    color: white;
+    border-radius: 5px;
+    padding: 8px 15px;
+}
+a.navbar-brand:hover {
+    color:#ccc;
+}
+li.login-button.nav-item {
+    float: right;
+    width: 598px;
+}
+button.login-login.btn.btn-primary {
+    float: right;
+    border: 1px solid;
+}

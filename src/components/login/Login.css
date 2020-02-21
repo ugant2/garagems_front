@@ -1,0 +1,20 @@
+.move{
+    padding-left: 175px;
+    padding-top: 20px;
+}
+
+.btnMove{
+    margin-left: 370px;
+}
+
+.modal-dialog {
+    margin-top: 100px;
+
+}
+
+.moveH1{
+    padding-top: 100px;
+}
+.modal-content {
+    box-shadow: 0px 0px 3px 3px #cccc;
+}
